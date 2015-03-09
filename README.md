@@ -24,7 +24,7 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
 ## Table of Contents
 
   1. [Single Responsibility](#single-responsibility)
-  1. [IIFE](#iife)
+  1. [IIFE](#iife) (SKIP)
   1. [Modules](#modules)
   1. [Controllers](#controllers)
   1. [Services](#services)
@@ -111,7 +111,7 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
 
 **[Back to top](#table-of-contents)**
 
-## IIFE
+## IIFE (SKIP)
 ### JavaScript Closures
 ###### [Style [Y010](#style-y010)]
 
@@ -249,7 +249,7 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
     - Use `angular.module('app', []);` to set a module.
     - Use `angular.module('app');` to get a module.
 
-### Named vs Anonymous Functions
+### Named vs Anonymous Functions (SKIP)
 ###### [Style [Y024](#style-y024)]
 
   - Use named functions instead of passing an anonymous function in as a callback.
